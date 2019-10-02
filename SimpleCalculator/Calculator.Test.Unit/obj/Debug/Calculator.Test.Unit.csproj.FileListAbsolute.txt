@@ -1,0 +1,16 @@
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csprojResolveAssemblyReference.cache
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.csproj.CoreCompileInputs.cache
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.dll
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Calculator.Test.Unit.pdb
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Calculator.exe
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Calculator.pdb
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Calculator.exe.config
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.dll
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator.Test.Unit\obj\Debug\Calculator.Test.Unit.pdb

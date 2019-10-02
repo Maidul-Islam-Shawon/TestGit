@@ -1,0 +1,7 @@
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator\bin\Debug\Calculator.exe.config
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator\bin\Debug\Calculator.exe
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator\bin\Debug\Calculator.pdb
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator\obj\Debug\Calculator.exe
+D:\MVC\Practice\C#Practice\Calculator\SimpleCalculator\Calculator\obj\Debug\Calculator.pdb
